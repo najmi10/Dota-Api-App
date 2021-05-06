@@ -26,3 +26,6 @@ daftar berkunci (keyed list), atau associative array.
 - [x] Daftar nilai terurutkan (an ordered list of values). Pada kebanyakan bahasa, hal ini 
 dinyatakan sebagai larik (array), vektor (vector), daftar (list), atau urutan (sequence)
 # Perbedaan Retrofit dengan Volley
+Retrofit adalah library android yang dibuat oleh Square yang digunakan sebagai REST Client pada Android, yang pasti akan memudahkan kita. Karena kita tidak perlu lagi untuk membuat method-method sendiri untuk menggunakan REST Client API dari backend. Library ini menyediakan framework yang powerfull untuk authenticating dan berinteraksi dengan API dengan mengirimkan request menggunakan OkHTTP. Sedangkan Volley merupakan produk yang diperkenalkan oleh Google untuk mempermudah pertukaran data tanpa harus membuat deretan kode yang sangat panjang. Secara default volley menggunakan metode singkronisasi jadi anda tidak perlu membuat sebuah method atau fungsi yang menggunakan class asynctask.
+Melakukan sebuah request queuing and prioritization (Mengutamakan prioritas dalam sebuah antrian).
+![AltText](https://github.com/najmi10/Dota-Api-App/blob/master/perbedaan.jpg)
