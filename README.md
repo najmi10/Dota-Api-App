@@ -19,3 +19,10 @@ format teks yang tidak bergantung pada bahasa pemprograman apapun karena menggun
 gaya bahasa yang umum digunakan oleh programmer keluarga C termasuk C, C++, C#, Java, 
 JavaScript, Perl, Python dll. Oleh karena sifat-sifat tersebut, menjadikan JSON ideal sebagai 
 bahasa pertukaran-data
+# Apa saja struktur dari JSON?
+- [x] Kumpulan pasangan nama/nilai. Pada beberapa bahasa, hal ini dinyatakan sebagai objek 
+(object), rekaman (record), struktur (struct), kamus (dictionary), tabel hash (hash table), 
+daftar berkunci (keyed list), atau associative array.
+- [x] Daftar nilai terurutkan (an ordered list of values). Pada kebanyakan bahasa, hal ini 
+dinyatakan sebagai larik (array), vektor (vector), daftar (list), atau urutan (sequence)
+# Perbedaan Retrofit dengan Volley
